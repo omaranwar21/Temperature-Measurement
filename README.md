@@ -9,6 +9,6 @@ Drivers:
 * TC72 Temperature sensor
 Assets:
 * Lib
-> Bit operations
-> Utils
+> Bit operations,
+> Utils,
 > Standard types
